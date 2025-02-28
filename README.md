@@ -9,7 +9,6 @@ Esse script automatiza a entrada em reuniões do Microsoft Teams e permite a ges
 #1. Clone o repositório:
 ```
 git clone https://github.com/glk12/MeetingAutomationForMSTeams.git
-cd TeamsAutomationScript
 ```
 #2. Instalar dependências
 ```
